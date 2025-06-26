@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\1.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\exoterra.jpg",
+      "PackagePath": "staticwebassets\\Images\\exoterra.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\littleone.jpg",
+      "PackagePath": "staticwebassets\\Images\\littleone.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\pedigree.jpg",
+      "PackagePath": "staticwebassets\\Images\\pedigree.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\purina.jpg",
+      "PackagePath": "staticwebassets\\Images\\purina.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\reptigourmet.jpg",
+      "PackagePath": "staticwebassets\\Images\\reptigourmet.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\rio.jpg",
+      "PackagePath": "staticwebassets\\Images\\rio.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\royalcanin.jpg",
+      "PackagePath": "staticwebassets\\Images\\royalcanin.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\sera.jpg",
+      "PackagePath": "staticwebassets\\Images\\sera.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\test.jpg",
+      "PackagePath": "staticwebassets\\Images\\test.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\tetra.jpg",
+      "PackagePath": "staticwebassets\\Images\\tetra.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\versele.jpg",
+      "PackagePath": "staticwebassets\\Images\\versele.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\vitakraft.jpg",
+      "PackagePath": "staticwebassets\\Images\\vitakraft.jpg"
+    },
+    {
+      "Id": "C:\\30333_Chelpanov\\Labs.API\\wwwroot\\Images\\whiskas.jpg",
+      "PackagePath": "staticwebassets\\Images\\whiskas.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Labs.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Labs.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Labs.API.props",
+      "PackagePath": "build\\Labs.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Labs.API.props",
+      "PackagePath": "buildMultiTargeting\\Labs.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Labs.API.props",
+      "PackagePath": "buildTransitive\\Labs.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

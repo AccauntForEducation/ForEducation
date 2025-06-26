@@ -1,0 +1,11 @@
+C:\30333_Chelpanov\Labs.Domain\bin\Debug\net9.0\Labs.Domain.deps.json
+C:\30333_Chelpanov\Labs.Domain\bin\Debug\net9.0\Labs.Domain.dll
+C:\30333_Chelpanov\Labs.Domain\bin\Debug\net9.0\Labs.Domain.pdb
+C:\30333_Chelpanov\Labs.Domain\obj\Debug\net9.0\Labs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\30333_Chelpanov\Labs.Domain\obj\Debug\net9.0\Labs.Domain.AssemblyInfoInputs.cache
+C:\30333_Chelpanov\Labs.Domain\obj\Debug\net9.0\Labs.Domain.AssemblyInfo.cs
+C:\30333_Chelpanov\Labs.Domain\obj\Debug\net9.0\Labs.Domain.csproj.CoreCompileInputs.cache
+C:\30333_Chelpanov\Labs.Domain\obj\Debug\net9.0\Labs.Domain.dll
+C:\30333_Chelpanov\Labs.Domain\obj\Debug\net9.0\refint\Labs.Domain.dll
+C:\30333_Chelpanov\Labs.Domain\obj\Debug\net9.0\Labs.Domain.pdb
+C:\30333_Chelpanov\Labs.Domain\obj\Debug\net9.0\ref\Labs.Domain.dll

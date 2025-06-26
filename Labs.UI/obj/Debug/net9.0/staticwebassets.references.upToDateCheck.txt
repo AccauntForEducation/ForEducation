@@ -1,0 +1,2 @@
+C:\30333_Chelpanov\Labs.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\30333_Chelpanov\Labs.API\obj\Debug\net9.0\staticwebassets.build.json
